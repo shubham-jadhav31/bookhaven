@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Resilience",
+      "author": "Ross Edgley",
+      "price": 19.99,
+      "genre": "Self-Help",
+      "rating": 4.8,
+      "stock": 12,
+      "coverImage": "https://via.placeholder.com/150x220?text=Resilience"
+    },
+    {
+      "id": 2,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 16.5,
+      "genre": "Productivity",
+      "rating": 4.9,
+      "stock": 8,
+      "coverImage": "https://via.placeholder.com/150x220?text=Atomic+Habits"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 11.99,
+      "genre": "Dystopian",
+      "rating": 4.7,
+      "stock": 5,
+      "coverImage": "https://via.placeholder.com/150x220?text=1984"
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 18.75,
+      "genre": "Productivity",
+      "rating": 4.6,
+      "stock": 10,
+      "coverImage": "https://via.placeholder.com/150x220?text=Deep+Work"
+    },
+    {
+      "id": 5,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "price": 21.0,
+      "genre": "History",
+      "rating": 4.8,
+      "stock": 7,
+      "coverImage": "https://via.placeholder.com/150x220?text=Sapiens"
+    },
+    {
+      "id": 6,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 14.5,
+      "genre": "Fantasy",
+      "rating": 4.9,
+      "stock": 6,
+      "coverImage": "https://via.placeholder.com/150x220?text=The+Hobbit"
+    },
+    {
+      "id": 7,
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "price": 17.25,
+      "genre": "Business",
+      "rating": 4.5,
+      "stock": 9,
+      "coverImage": "https://via.placeholder.com/150x220?text=Zero+to+One"
+    },
+    {
+      "id": 8,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 13.99,
+      "genre": "Fiction",
+      "rating": 4.6,
+      "stock": 4,
+      "coverImage": "https://via.placeholder.com/150x220?text=The+Alchemist"
+    },
+    {
+      "id": 9,
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "price": 15.99,
+      "genre": "Leadership",
+      "rating": 4.4,
+      "stock": 11,
+      "coverImage": "https://via.placeholder.com/150x220?text=Start+With+Why"
+    },
+    {
+      "id": 10,
+      "title": "Can't Hurt Me",
+      "author": "David Goggins",
+      "price": 20.49,
+      "genre": "Motivation",
+      "rating": 4.8,
+      "stock": 3,
+      "coverImage": "https://via.placeholder.com/150x220?text=Can't+Hurt+Me"
+    }
+  ]
+  

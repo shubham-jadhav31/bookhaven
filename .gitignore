@@ -1,0 +1,49 @@
+# Root-level ignores
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+.vscode/
+*.tsbuildinfo
+
+# Frontend build (if separate)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Backend
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/.env.local
+
+# PostgreSQL (local configs, dumps, etc.)
+*.pgsql
+*.psql
+*.sql
+*.dump
+pgdata/
+postgres-data/
+
+# Misc
+coverage/
+.cache/
+tmp/

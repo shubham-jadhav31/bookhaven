@@ -1,0 +1,100 @@
+.register-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: linear-gradient(135deg, #000000, #4b5563);
+    padding: 20px;
+  }
+  
+  .register-box {
+    background-color: #191919;
+    padding: 40px 30px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 500px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+  }
+  
+  .register-title {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #60a5fa;
+    font-size: 28px;
+    font-weight: 700;
+  }
+  
+  .input-group {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .input-row {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .input-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #93c5fd;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    font-size: 15px;
+    background-color: #ededed;
+    color: black;
+    transition: border-color 0.2s;
+  }
+  
+  .input-group input:focus {
+    border-color: #6366f1;
+    outline: none;
+  }
+  
+  .register-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #3b82f6;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .register-btn:hover {
+    background-color: #2563eb;
+  }
+  
+  .login-link {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    color: #9ca3af;
+  }
+  
+  .login-link a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .login-link a:hover {
+    text-decoration: underline;
+  }
+  
+  .input-row .input-group {
+    flex: 1;
+    min-width: 45%;
+  }
+  
